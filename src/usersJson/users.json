@@ -1,1 +1,1 @@
-[{"user":"admin","pass":"1234","role":"admin","compani":["FormularioAdmin","Empresa1","Empresa2"]},{"user":"luis","pass":"4321","role":"employee","compani":["Empresa1"]},{"user":"alfredo","pass":"9876","role":"employee2","compani":["Empresa2"]}]
+[{"user":"admin","pass":"1234","role":"admin","compani":["FormularioAdmin","Empresa1","Empresa2"]},{"user":"luis","pass":"4321","role":"employe","compani":["Empresa1"]},{"user":"alfredo","pass":"9876","role":"employe","compani":["Empresa2"]}]
