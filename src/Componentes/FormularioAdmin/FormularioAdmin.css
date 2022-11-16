@@ -1,0 +1,21 @@
+.FormularioAdmin{
+    width: 48%;
+    height: 65%;
+    /* align-items: center; */
+    justify-content: center;
+    border: 1px solid #000000;
+}
+.inputText{
+    height: 10%;
+    height: 37px;
+    width: 65%;
+}
+.btn{
+    align-self: center;
+    color: white;
+    background-color: #5901e5;
+    border: 0;
+    width: 37%;
+    height: 35px;
+    border-radius: 5%;
+}

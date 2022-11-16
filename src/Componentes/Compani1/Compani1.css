@@ -1,0 +1,22 @@
+.div1{
+    display: flex;
+}
+.ValorAConvertir{
+    height: 25px;
+}
+.div2{
+    display: flex;
+    justify-content: end;
+    margin-top: 15px
+}
+.ConvertidorDeMoneda{
+    display: flex;
+    width: 48%;
+    height: 52%;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid #000000;
+}
+.labelValorAConvertir{
+    margin-top: 5%;
+}

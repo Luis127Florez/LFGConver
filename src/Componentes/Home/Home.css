@@ -1,0 +1,15 @@
+.Home{
+    display: flex;
+    width: 48%;
+    height: 52%;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #000000;
+    flex-direction: column;
+
+}
+.select{
+    width: 67%;
+    height: 11%;
+    border-radius: 5px;
+}
